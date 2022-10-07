@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;400;700&display=swap');
+.baslik
+{
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+.burakreis
+{
+    border: 2px solid rgb(177, 144, 144);
+    border-radius: 50%;
+}
