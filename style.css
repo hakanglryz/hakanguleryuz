@@ -88,36 +88,18 @@ div.col-4 span:before {
     content: "CSS";
       opacity: 0.5;
   }
-  50% {
+  60% {
       content: "CSS";
       opacity: 1;
   }
-  60% {
+  80% {
     content: "CSS";
       opacity: 0.5;
   }
-  70% {
+  100% {
       opacity: 0;
   }
-  80%
-  {
-    content: "cat-dad";
-    opacity: 0.5;
-  }
-  90%
-  {
-    content: "cat-dad";
-    opacity: 1;
-  }
-  95%
-  {
-    content: "cat-dad";
-    opacity: 0.5;
-  }
-  100%
-  {
-    opacity: 0;
-  }
+
 
 }
 
