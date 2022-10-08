@@ -1,4 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;400;700&display=swap');
+#root
+{
+    --bg: #18181b;
+  --txt: #ffffff;
+  --txt-opt: #a1a1aa;
+  --div-bg: #222222;
+  --border: #575656;
+}
+
 .baslik
 {
     font-family: 'Lato', sans-serif;
