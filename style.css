@@ -7,19 +7,6 @@
   --border: #d4d4d4;
   --hover: #919191;
 }
-
-[data-theme="dark"] {
-    --bg: #18181b;
-  --txt: #ffffff;
-  --txt-opt: #a1a1aa;
-  --div-bg: #222222;
-  --border: #575656;
-}
-
-body {
-    background-color: var(--bg);
-    transition: 0.5s ease;
-}
 .row
 {
     top:5px;
