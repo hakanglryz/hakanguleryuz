@@ -35,7 +35,7 @@ nav>ul>li>a {
     background-color: var(--border);
     border-radius: 25px;
     padding: 8px;
-    transition: 1s ease;
+    transition: 1s ease; 
 }
 nav>ul>li>div>label>div>i {
     color: var(--txt);
@@ -45,7 +45,7 @@ nav>ul>li>div>label>div>i {
 
 div.col-3 img
 {
-    border-radius: 50%;
+    border-radius: 25%;
     max-width:240px;
     margin-top: 25px;
     justify-items: center;
