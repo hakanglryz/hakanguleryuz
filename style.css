@@ -129,7 +129,7 @@ div.col-4 span:before {
     font-size: 27px;
     margin: 1px;
     display: block;
-    border-radius: 25%;
+    border-radius: 50%;
     position: relative;
     overflow: hidden;
     border: 2px solid var(--border);
