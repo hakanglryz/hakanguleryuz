@@ -1,0 +1,103 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    background-attachment: fixed;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url( çalışmalarım.jpg );
+}
+.banner{
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url( çalışmalarım.jpg );
+    background-position: center ;
+    background-size: cover;
+    
+    
+}
+.navbar{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    padding: 32px 0;
+    align-items: center;
+    justify-content: space-between;
+    background-size: cover;
+    background-position: center ;
+}
+.logo{
+    cursor: pointer;
+    border-radius: 50% ;
+     background-size: cover;
+    background-position: center ;
+    
+}
+.navbar ul li{
+    list-style-type: none;
+    display: inline-block;
+    margin: 0 25px;
+    background-size: cover;
+    background-position: center ;
+}
+.navbar ul li a {
+    text-decoration: none;
+    color: #fff;
+    background-size: cover;
+    background-position: center ;
+}
+.content{
+    width: 100%;
+    position: absolute;
+    top: 40%;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-size: cover;
+    background-position: center ;
+}
+.content h1{
+    font-size: 40px;
+    background-size: cover;
+    background-position: center ;
+}
+.content box ul {
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: center ;
+    
+}
+.content box ul li {
+    display: inline-block;
+    margin: 15px;
+    list-style: none;
+    font-size: 18px;
+    background-size: cover;
+    background-position: center ;
+}
+.content box ul li a{
+    color: #fff;
+}
+.content div ul li a:hover{
+    color: #b9b9b9;
+    background-size: cover;
+    background-position: center ;
+}
+p{
+    background-size: cover;
+    background-position: center ;
+
+}
+ul{
+    background-size: cover;
+    background-position: center ;
+}
+.content box ul li a button{
+    color: #fff;
+}
+body footer {
+    font-size: large;
+    color: #fff;
+    text-align: center;
+    }
+    .content footer :hover{
+        color: #ffffff;
+    }
